@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="timeStamper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/timeStamper_jar</output-path>
+    <root id="archive" name="timeStamper.jar">
+      <element id="module-output" name="timeStamper" />
+    </root>
+  </artifact>
+</component>
